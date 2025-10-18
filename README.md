@@ -23,7 +23,7 @@ See [SlothBP.ini](https://github.com/x64dbg/SlothBP/blob/master/SlothBP.ini) for
 
 ## How to use
 
-* Download relases from [Release] (https://ci.appveyor.com/project/mrexodia/slothbp/build/artifacts)
+* Download relases from [Release] (https://ci.appveyor.com/project/xiafeifei/slothbp/build/artifacts)   2025-10-19
 * Place Plugin in x32/64 plugin directory
 * Debug your favorite target and set the breakpoints from the menu items.
 
